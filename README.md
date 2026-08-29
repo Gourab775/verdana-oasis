@@ -1,8 +1,8 @@
-﻿# Verdana -- Digital Oasis | Interactive 3D Grass Experience
+# Verdana -- Digital Oasis | Interactive 3D Grass Experience
 
 Immersive WebGL experience featuring procedural grass, scroll-driven camera, and depth-of-field. A performant showcase for nature-driven brand storytelling and interactive landing pages.
 
-Live Demo: `https://gourab775.github.io/3d-grass` | Category: Interactive Website / WebGL | Stack: HTML5, CSS, JavaScript (WebGL / Shaders)
+Live Demo: `https://3d-grass.vercel.app` | Category: Interactive Website / WebGL | Stack: HTML5, CSS, JavaScript (WebGL / Shaders)
 
 ---
 

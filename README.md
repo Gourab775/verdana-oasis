@@ -2,7 +2,7 @@
 
 Immersive WebGL experience featuring procedural grass, scroll-driven camera, and depth-of-field. A performant showcase for nature-driven brand storytelling and interactive landing pages.
 
-Live Demo: `https://3d-grass.vercel.app` | Category: Interactive Website / WebGL | Stack: HTML5, CSS, JavaScript (WebGL / Shaders)
+Live Demo: `https://verdana-oasis.vercel.app` | Category: Interactive Website / WebGL | Stack: HTML5, CSS, JavaScript (WebGL / Shaders)
 
 ---
 

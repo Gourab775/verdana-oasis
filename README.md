@@ -1,4 +1,4 @@
-# Verdana -- Digital Oasis | Interactive 3D Grass Experience
+﻿# Verdana -- Digital Oasis | Interactive 3D Grass Experience
 
 Immersive WebGL experience featuring procedural grass, scroll-driven camera, and depth-of-field. A performant showcase for nature-driven brand storytelling and interactive landing pages.
 
@@ -78,3 +78,4 @@ No environment variables required.
 ## License
 
 MIT -- free for personal and commercial use.
+
